@@ -1,0 +1,5 @@
+* Odin Recipes
+
+My implementation of [[https://www.theodinproject.com/lessons/foundations-recipes][odin-recipes]].
+
+Practice all html knowledge learned so far.
